@@ -2,7 +2,7 @@ import telebot
 import requests
 
 
-TOKEN = "5093307005:AAEYfS5oK4OFfMKkCraE2hfSGED3aX3VFTk"
+TOKEN = "Paste Your Token Here"
 
 bot = telebot.TeleBot(TOKEN)
 
